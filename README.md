@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abhash Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate developer from India. I love to learn new things and keep on improving my skills. I love working with open source technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhash-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="abhash-chakraborty" /> </p>
 
