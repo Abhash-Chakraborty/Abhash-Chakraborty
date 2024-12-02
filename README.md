@@ -92,7 +92,7 @@
 
 ###
 
-[![@abhash14's Holopin board](https://holopin.io/api/user/board?user=abhash14)](https://holopin.io/@abhash14)
+[![An image of @abhash14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhash14)](https://holopin.io/@abhash14)
 
 ###
 
