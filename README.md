@@ -98,26 +98,22 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhash-Chakraborty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhash-Chakraborty&theme=nightowl&show_icons=true&hide_border=false&count_private=true" height="150" alt="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhash-Chakraborty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Abhash-Chakraborty&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhash-Chakraborty&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake.svg" />
+  </picture>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake.svg" />
-</picture>
+
 
 ###
