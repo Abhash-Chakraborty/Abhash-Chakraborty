@@ -28,7 +28,7 @@
 
 ###
 <div align="center"> 
-  <img src="https://gityzer-seven.vercel.app/Abhash-Chakraborty/svg?theme=light&font=Calibri&pattern=shape+2&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80592559%3Fv%3D4&star=true&fork=true&issue=true" />
+  <img src="https://gityzer-seven.vercel.app/Abhash-Chakraborty/image?theme=light&font=TimesNewRoman&pattern=shape+2&star=true&fork=true&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80592559%3Fv%3D4" />
 </div>
 
 ###
