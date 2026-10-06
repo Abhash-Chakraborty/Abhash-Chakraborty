@@ -13,10 +13,10 @@ Right now I'm fine-tuning small open LLMs.
 ## What I'm building
 
 - **[PentaVault](https://abhashchakraborty.tech/projects/pentavault)**: runtime secrets for AI-assisted development. Secrets stay encrypted, access is deny-by-default, and the CLI injects a value only while a command runs. ([repo](https://github.com/PentaVault/PentaVault))
-- **CareerOS**: a career counsellor students can talk to. A voice agent interviews them, books sessions on their Google Calendar and answers only from official sources. ([live](https://careeros.abhashchakraborty.tech) · [repo](https://github.com/Abhash-Chakraborty/CareerOS))
+- **[CareerOS](https://abhashchakraborty.tech/projects/careeros)**: a career counsellor students can talk to. A voice agent interviews them, books sessions on their Google Calendar and answers only from official sources. ([live](https://careeros.abhashchakraborty.tech) · [repo](https://github.com/Abhash-Chakraborty/CareerOS))
 - **[Find](https://abhashchakraborty.tech/projects/find)**: search your photos in plain language, fully self-hosted, so nothing leaves your machine. ([repo](https://github.com/Abhash-Chakraborty/Find))
-- **NexusFlow**: a canvas workflow designer that flags a broken process while you draw it, then simulates it step by step. ([live](https://nexusflow.abhashchakraborty.tech/designer) · [repo](https://github.com/Abhash-Chakraborty/NexusFlow))
-- **Allo**: timed inventory holds where two carts can never claim the same last unit, enforced with Postgres row locks. ([live](https://allo.abhashchakraborty.tech) · [repo](https://github.com/Abhash-Chakraborty/Allo-Project))
+- **[NexusFlow](https://abhashchakraborty.tech/projects/nexusflow)**: a canvas workflow designer that flags a broken process while you draw it, then simulates it step by step. ([live](https://nexusflow.abhashchakraborty.tech/designer) · [repo](https://github.com/Abhash-Chakraborty/NexusFlow))
+- **[Allo](https://abhashchakraborty.tech/projects/allo)**: timed inventory holds where two carts can never claim the same last unit, enforced with Postgres row locks. ([live](https://allo.abhashchakraborty.tech) · [repo](https://github.com/Abhash-Chakraborty/Allo-Project))
 
 More, including smaller builds, on [my projects page](https://abhashchakraborty.tech/projects).
 
