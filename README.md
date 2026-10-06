@@ -1,118 +1,43 @@
 <div align="center">
-  <img height="" src="asset/banner.png"  />
+  <img src="asset/banner.png" alt="Abhash Chakraborty" />
 </div>
 
-###
+## Hi, I'm Abhash
 
-<br clear="both">
+I study AI and ML at VIT in Bhopal (Integrated M.Tech, final year) and write software for SAITS, a Swiss AI services company. Most of what I build puts a model inside something people use: agents that call real tools, photo search that stays on your own machine, a vault that hands a secret to a script only while it runs.
 
-<img align="right" src="https://komarev.com/ghpvc/?username=abhash-chakraborty&label=Visitors&color=0e75b6&style=flat"  />
+Right now I'm fine-tuning small open LLMs.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhash-chakraborty-b78862247/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Abhashchakrab14" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/abhash.chakraborty/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+[Portfolio](https://abhashchakraborty.tech) · [Writing](https://abhashchakraborty.tech/writing) · [Résumé](https://abhashchakraborty.tech/resume) · [LinkedIn](https://www.linkedin.com/in/abhash-chakraborty-b78862247/) · [X](https://x.com/Abhashchakrab14)
 
-###
+## What I'm building
 
-<br clear="both">
+- **[PentaVault](https://abhashchakraborty.tech/projects/pentavault)**: runtime secrets for AI-assisted development. Secrets stay encrypted, access is deny-by-default, and the CLI injects a value only while a command runs. ([repo](https://github.com/PentaVault/PentaVault))
+- **CareerOS**: a career counsellor students can talk to. A voice agent interviews them, books sessions on their Google Calendar and answers only from official sources. ([live](https://careeros.abhashchakraborty.tech) · [repo](https://github.com/Abhash-Chakraborty/CareerOS))
+- **[Find](https://abhashchakraborty.tech/projects/find)**: search your photos in plain language, fully self-hosted, so nothing leaves your machine. ([repo](https://github.com/Abhash-Chakraborty/Find))
+- **NexusFlow**: a canvas workflow designer that flags a broken process while you draw it, then simulates it step by step. ([live](https://nexusflow.abhashchakraborty.tech/designer) · [repo](https://github.com/Abhash-Chakraborty/NexusFlow))
+- **Allo**: timed inventory holds where two carts can never claim the same last unit, enforced with Postgres row locks. ([live](https://allo.abhashchakraborty.tech) · [repo](https://github.com/Abhash-Chakraborty/Allo-Project))
 
-<h1 align="center">👋 Hi, I'm Abhash Chakraborty!</h1>
+More, including smaller builds, on [my projects page](https://abhashchakraborty.tech/projects).
 
+## Open source
 
-<h3 align="left">👩‍💻  About Me</h3>
+- **[Dokploy](https://github.com/Abhash-Chakraborty/dokploy)**: I maintain my own build of this self-hosted PaaS and run my servers on it. 138 commits and 16 releases add fleet SSH, a firewall that rolls itself back if it locks me out, an encrypted vault and restic backups with restore drills.
+- **[mem0](https://github.com/Abhash-Chakraborty/mem0)**: a self-hosted memory server with an entity graph, webhooks and a one-container pgvector image, synced with upstream every week.
+- **[recodehive](https://github.com/recodehive/recode-website/pulls?q=is%3Apr+author%3AAbhash-Chakraborty+is%3Amerged)**: 7 merged PRs, including Clerk sign-in, Algolia search and a fix that stopped exposing tokens in the browser.
+- **[Gityzer](https://github.com/vansh-codes/Gityzer/pulls?q=is%3Apr+author%3AAbhash-Chakraborty+is%3Amerged)**: 9 merged PRs during Social Winter of Code 2025, among them the AI badge generator and SVG rendering. Second-largest contributor.
+- **[Nyay Sathi](https://github.com/vikas872/nyay-sathi-clean/pull/1)**: my v2.0 upgrade moved this Indian-law assistant to agentic RAG with cited sources.
 
-###
+## Stack
 
-<p align="left">I'm from Bhopal, India.<br><br>🔭 I’m working as the Creative Team Lead at Mozilla Firefox Club, VIT Bhopal.<br>📚 I'm currently learning advanced concepts in Artificial Intelligence and Machine Learning while pursuing my Integrated M.Tech at VIT Bhopal.<br>⚡ In my free time, I enjoy exploring creative design, experimenting with new technologies, and contributing to innovative projects.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+Python, TypeScript and Rust. PyTorch, Hugging Face and LangChain for models; Next.js, FastAPI and Fastify for apps; PostgreSQL with pgvector, Redis and Convex for data; Docker, Linux and GitHub Actions to ship it.
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<h3 align="left">🏆   Badges :</h3>
-
-###
-
-[![An image of @abhash14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhash14)](https://holopin.io/@abhash14)
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhash-Chakraborty&theme=nightowl&show_icons=true&hide_border=false&count_private=true" height="150" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhash-Chakraborty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Abhash-Chakraborty&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhash-Chakraborty&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <picture >
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhash-Chakraborty&show_icons=true&count_private=true&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhash-Chakraborty&layout=compact&langs_count=5&card_width=320&hide_border=true" height="150" alt="Most used languages" />
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake.svg" />
+    <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/Abhash-Chakraborty/Abhash-Chakraborty/output/github-snake.svg" />
   </picture>
 </div>
-
-###
-
-
-
-###
