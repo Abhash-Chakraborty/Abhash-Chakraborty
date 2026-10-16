@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="asset/banner-dark.webp" />
-  <img alt="Abhash Chakraborty, software developer at SAITS in Bhopal, India. I build software and work hands-on with AI." src="asset/banner-light.webp" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://assets.abhashchakraborty.tech/brand/github-banner-dark.png" />
+  <img alt="Abhash Chakraborty, software developer at SAITS in Bhopal, India. I build software and work hands-on with AI." src="https://assets.abhashchakraborty.tech/brand/github-banner-light.png" />
 </picture>
 
 <p align="center">
